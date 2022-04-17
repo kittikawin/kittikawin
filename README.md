@@ -1,13 +1,13 @@
-### Here is I'm working on! 👋
+### Hi there, I'm Ball - Thai developer 👋
 
 
-Here are some ideas to get you started:
+## I'm Developer
+- 🔭 I’m currently working on KrungSri nimble
+- 🌱 I’m currently learning everything :rofl
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love coding and learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contact with me
+
+
+## Language and tools
