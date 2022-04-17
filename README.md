@@ -3,7 +3,7 @@
 
 ## I'm Developer
 - 🔭 I’m currently working on KrungSri nimble
-- 🌱 I’m currently learning everything :rofl
+- 🌱 I’m currently learning everything :rofl:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love coding and learning new technologies
 
